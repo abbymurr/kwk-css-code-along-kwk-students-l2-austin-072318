@@ -19,10 +19,6 @@ body {
       transition: rotate(-30)deg;
     }
     
-    h1 {
-    text-shadow: 2px 2px #ff0000;
-}
-    
     .mycolor1 {
       font-size: 300%;
       background-color: darkred;
